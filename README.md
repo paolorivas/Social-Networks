@@ -1,7 +1,7 @@
-# Assignment 3
-### Social Networks
+# Social Network Analysis
+### SNA using igraph
 
-In Assignment 3 we will again be looking at some interaction data from students commenting on a class video. The file "comment-data.csv" shows which student responded to which student in an online video platform.
+In this project we will again be looking at some interaction data from students commenting on a class video. The file "comment-data.csv" shows which student responded to which student in an online video platform.
 
 We will be using the "igraph" package to visualize the relationships between students as a network. You can read more about igraph [here](http://igraph.org/r/).
 
